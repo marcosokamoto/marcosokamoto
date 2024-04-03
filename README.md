@@ -1,4 +1,4 @@
-# Olá! Eu sou Marcos, um entusiasta na área de desenvolvimento Web
+# Olá! Eu sou um entusiasta na área de desenvolvimento Web
 
 ### Sobre Mim
 - Estou focado em aprender e aprimorar minhas habilidades em HTML, CSS e JavaScript.
