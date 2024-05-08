@@ -17,6 +17,13 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
+---
+
+<div>
+  <a href="https://github.com/marcosokamoto">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosokamoto&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
 <!--
 - HTML5
 - CSS3 (incluindo flexbox e grid)
