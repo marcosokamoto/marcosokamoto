@@ -21,7 +21,7 @@
 
 <div>
   <a href="https://github.com/marcosokamoto">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosokamoto&layout=compact&langs_count=7&theme=github_dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosokamoto&layout=compact&langs_count=7&theme=github_dark&hide_title=false&locale=pt-br"/>
 </div>
 
 <!--
