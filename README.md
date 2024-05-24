@@ -1,8 +1,7 @@
 # Bem-vindo ao Meu Perfil!
 ### Sobre Mim
-- Estou focado em aprender e aprimorar minhas habilidades em HTML, CSS e JavaScript.
-- Atualmente, estou explorando frameworks Vue.js para desenvolvimento web moderno.
-- Interesse  por criar interfaces incríveis e interativas para melhorar a experiência do usuário.
+🚀  Desenvolvedor em constante evolução, compartilhando experiências e conhecimentos.  
+💻  Comprometido com o código e a comunidade tech.
 
 ### Habilidades
 <div>
@@ -25,6 +24,11 @@
 </div>
 
 <!--
+
+- Estou focado em aprender e aprimorar minhas habilidades em HTML, CSS e JavaScript.
+- Atualmente, estou explorando frameworks Vue.js para desenvolvimento web moderno.
+- Interesse  por criar interfaces incríveis e interativas para melhorar a experiência do usuário.
+
 - HTML5
 - CSS3 (incluindo flexbox e grid)
 - JavaScript (ES6+)
