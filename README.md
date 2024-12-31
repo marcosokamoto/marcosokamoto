@@ -1,7 +1,7 @@
 # Bem-vindo ao Meu Perfil!
 ### Sobre Mim
-🚀  Desenvolvedor em constante evolução, compartilhando experiências e conhecimentos.  
-💻  Comprometido com o código e a comunidade tech.
+Desenvolvedor em constante evolução, compartilhando experiências e conhecimentos.  
+Comprometido com o código e a comunidade tech.
 
 ### Habilidades
 <div>
