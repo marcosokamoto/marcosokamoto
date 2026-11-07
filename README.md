@@ -124,12 +124,6 @@ Minha metodologia consiste em:
 
 ---
 
-📫 Contato
-
-- GitHub: "Meus repositórios" (https://github.com/marcosokamoto)
-
----
-
 ⭐ Obrigado por visitar meu perfil!
 
 Estudando, praticando e construindo minha trajetória na área de desenvolvimento de software. 🚀
