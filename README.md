@@ -1,59 +1,135 @@
-# Bem-vindo ao Meu Perfil!
-### Sobre Mim
-Desenvolvedor em constante evolução, compartilhando experiências e conhecimentos.  
-Comprometido com o código e a comunidade tech.
+👋 Olá! Seja bem-vindo!
 
-### Habilidades
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
- </div>
+Sou um desenvolvedor de software em formação, estudando programação de forma autodidata, com foco em desenvolvimento Backend utilizando Python.
 
-### Habilidades em Desenvolvimento
-<div>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-</div>
+Estou construindo minha formação por meio de estudos teóricos, exercícios práticos e desenvolvimento de projetos, buscando adquirir conhecimentos sólidos em programação e Engenharia de Software.
+
+Meu objetivo é desenvolver soluções de software, aprimorar minhas habilidades técnicas e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
-<div>
-  <a href="https://github.com/marcosokamoto">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosokamoto&layout=compact&langs_count=7&theme=github_dark&hide_title=false&locale=pt-br"/>
-</div>
+🎯 Objetivo profissional
 
-<!--
+Construir uma carreira como Desenvolvedor Backend, desenvolvendo aplicações eficientes, seguras e bem estruturadas.
 
-- Estou focado em aprender e aprimorar minhas habilidades em HTML, CSS e JavaScript.
-- Atualmente, estou explorando frameworks Vue.js para desenvolvimento web moderno.
-- Interesse  por criar interfaces incríveis e interativas para melhorar a experiência do usuário.
+Tenho interesse especial em:
 
-- HTML5
-- CSS3 (incluindo flexbox e grid)
-- JavaScript (ES6+)
-- Vue.js (em processo de aprendizado)
+- Desenvolvimento Backend.
+- Engenharia de Software.
+- Banco de dados.
+- Arquitetura de software.
+- Desenvolvimento de APIs.
+- Boas práticas de programação.
 
-## Projetos
-- [Nome do Projeto](link do projeto): Breve descrição do projeto e tecnologias utilizadas.
-- [Nome do Projeto](link do projeto): Breve descrição do projeto e tecnologias utilizadas.
+---
 
-## Contato
-- 📧 Email: seuemail@gmail.com
-- 🔗 LinkedIn: [Seu Perfil](link do LinkedIn)
-- 🐦 Twitter: [@SeuTwitter](link do Twitter)
+📚 Atualmente estou estudando
 
+- Fundamentos da Computação.
+- Lógica de Programação e Algoritmos.
+- Estruturas de Dados.
+- Programação Orientada a Objetos.
+- Python.
+- Banco de Dados e SQL.
+- Modelagem de Dados (MER e DER).
+- Engenharia de Software.
+- UML e metodologias ágeis.
+- Desenvolvimento Backend.
+- APIs REST.
 
-**marcosokamoto/marcosokamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias e ferramentas
+
+Linguagens de programação
+
+- Python (em aprendizado)
+- SQL (em aprendizado)
+- JavaScript (em aprendizado)
+
+Banco de dados
+
+- PostgreSQL
+- SQLite
+
+Desenvolvimento Backend
+
+- FastAPI (em aprendizado)
+- APIs REST
+- JSON
+
+Ferramentas
+
+- Git
+- GitHub
+- Google Colab
+- Visual Studio Code
+- Obsidian
+
+---
+
+🚀 Projetos
+
+Utilizo este espaço para compartilhar minha evolução, exercícios e projetos desenvolvidos durante minha formação.
+
+Projetos em desenvolvimento ou planejados
+
+Projeto| Objetivo| Tecnologias
+Controle Financeiro| Gerenciar receitas e despesas| Python
+Sistema de Estoque| Controlar produtos e movimentações| Python e SQL
+API Comercial| Gerenciar clientes e pedidos| Python e FastAPI
+Sistema de Agendamentos| Gerenciar horários e serviços| Python e PostgreSQL
+ERP Simplificado| Desenvolver um sistema integrado de gestão| Python, SQL e JavaScript
+
+Os projetos serão disponibilizados neste perfil conforme forem desenvolvidos e concluídos.
+
+---
+
+🧭 Minha jornada de aprendizado
+
+Minha formação autodidata está organizada em 16 módulos:
+
+1. Fundamentos da Computação.
+2. Matemática e Lógica Matemática.
+3. Lógica de Programação e Algoritmos.
+4. Python e Paradigmas de Programação.
+5. Estruturas de Dados e Algoritmos.
+6. Git, GitHub e Linux.
+7. Banco de Dados e SQL.
+8. Engenharia de Software e Modelagem.
+9. Redes de Computadores.
+10. Desenvolvimento Web.
+11. Desenvolvimento Backend.
+12. Arquitetura de Software.
+13. Testes de Software.
+14. Segurança da Informação.
+15. Docker, DevOps e Cloud Computing.
+16. Projetos Profissionais e Portfólio.
+
+---
+
+💡 Minha metodologia de aprendizagem
+
+Acredito que aprender programação exige dedicação, consistência e principalmente prática.
+
+Minha metodologia consiste em:
+
+- Estudar os fundamentos teóricos.
+- Resolver exercícios de programação.
+- Desenvolver projetos próprios.
+- Aplicar boas práticas de desenvolvimento.
+- Documentar meus projetos.
+- Versionar meu código utilizando Git.
+- Compartilhar minha evolução no GitHub.
+
+---
+
+📫 Contato
+
+- GitHub: "Meus repositórios" (https://github.com/marcosokamoto)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
+Estudando, praticando e construindo minha trajetória na área de desenvolvimento de software. 🚀
